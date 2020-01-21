@@ -15,6 +15,7 @@ public class Student {
     
     private String name;
     private int studennumber;
+    private String status;
 
     /**
      * Get the value of name
